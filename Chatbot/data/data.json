@@ -1,0 +1,38 @@
+[
+  {
+    "disease_id": 1,
+    "disease_name": "Powdery Mildew",
+    "plant_name": "Wheat",
+    "symptoms": "White powdery spots on leaves and stems, yellowing of leaves",
+    "prevention": "Use resistant varieties, ensure proper spacing for air circulation",
+    "treatment": "Apply fungicide spray, remove infected leaves",
+    "image_path": "images/wheat_powdery_mildew.jpg",
+    "audio_description_path": "audio/wheat_powdery_mildew.mp3",
+    "confidence_threshold": 0.85,
+    "category": "Fungal Disease"
+  },
+  {
+    "disease_id": 2,
+    "disease_name": "Leaf Rust",
+    "plant_name": "Wheat",
+    "symptoms": "Small orange-red pustules on leaf surface",
+    "prevention": "Rotate crops, use resistant cultivars",
+    "treatment": "Fungicide application, remove infected plants",
+    "image_path": "images/wheat_leaf_rust.jpg",
+    "audio_description_path": "audio/wheat_leaf_rust.mp3",
+    "confidence_threshold": 0.80,
+    "category": "Fungal Disease"
+  },
+  {
+    "disease_id": 3,
+    "disease_name": "Bacterial Spot",
+    "plant_name": "Tomato",
+    "symptoms": "Dark, water-soaked spots on leaves and fruit",
+    "prevention": "Use disease-free seeds, avoid overhead watering",
+    "treatment": "Copper-based bactericides, remove infected plants",
+    "image_path": "images/tomato_bacterial_spot.jpg",
+    "audio_description_path": "audio/tomato_bacterial_spot.mp3",
+    "confidence_threshold": 0.88,
+    "category": "Bacterial Disease"
+  }
+]

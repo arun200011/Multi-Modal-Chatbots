@@ -1,0 +1,14 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey"],
+      "responses": ["Hello! How can I help you with your plant today?"]
+    },
+    {
+      "tag": "powdery_mildew",
+      "patterns": ["white spots on leaves", "powdery growth"],
+      "responses": ["This looks like Powdery Mildew. Recommended treatment: use a fungicide spray."]
+    }
+  ]
+}
